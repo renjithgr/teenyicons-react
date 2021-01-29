@@ -24,4 +24,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [renjithgr](https://github.com/renjithgr)
+MIT
