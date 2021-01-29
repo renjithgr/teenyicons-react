@@ -1,7 +1,5 @@
 # Teenyicons for React
 
-[![NPM](https://img.shields.io/npm/v/teenyicons-react.svg)](https://www.npmjs.com/package/teenyicons-react)
-
 ## Install
 
 ```bash
