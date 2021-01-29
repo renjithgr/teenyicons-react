@@ -7,6 +7,6 @@ export default {
   component: ThreeSixty
 };
 
-const Template = (args) => <ThreeSixty {...args} />;
+const Template = (args) => <ThreeSixty />;
 
 export const Default = Template.bind({});
