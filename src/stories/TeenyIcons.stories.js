@@ -3,7 +3,7 @@ import React from 'react';
 import { ThreeSixty } from '../index';
 
 export default {
-  title: 'TeenyIcons/ThreeSixty',
+  title: 'ThreeSixty',
   component: ThreeSixty
 };
 
